@@ -1,1 +1,1 @@
-web: gunicorn malewicz:malewicz
+web: gunicorn app:app
